@@ -31,8 +31,7 @@ const Footer = () => {
             ))}
           </div>
         </div>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6302616580922382"
-     crossorigin="anonymous"></script>
+
         <div className='flex flex-1 justify-between lg:gap-10 gap-20 flex-wrap'>
           {footerLinks.map((section) => (
             <div key={section.title}>
