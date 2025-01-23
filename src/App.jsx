@@ -37,6 +37,7 @@ const App = () => {
       </section>
       <section className=' bg-black padding-x padding-t pb-8'>
         <Footer />
+        <meta name="google-adsense-account" content="ca-pub-6302616580922382"></meta>
       </section>
     </main>
   );
